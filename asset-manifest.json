@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Tech_News_Website/static/css/main.41886463.css",
+    "main.js": "/React_Tech_News_Website/static/js/main.1b80f675.js",
+    "index.html": "/React_Tech_News_Website/index.html",
+    "main.41886463.css.map": "/React_Tech_News_Website/static/css/main.41886463.css.map",
+    "main.1b80f675.js.map": "/React_Tech_News_Website/static/js/main.1b80f675.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41886463.css",
+    "static/js/main.1b80f675.js"
+  ]
+}
